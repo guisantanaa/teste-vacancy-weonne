@@ -70,3 +70,9 @@ export default InputZipCode;
 ## :rocket: Chamando o componente dentro do block.json
 
 <p>Acredito que seja possivel depois que já declaramos o componente no Interfaces.json, chamar o componente no block.json dentro de um children.</p>
+
+## :rocket: Deploy da Aplicação
+
+<a href="https://teste-vacancy-weonne.vercel.app/" title="Link de Deploy" target="_blank">
+  Link de Deploy
+</a>
